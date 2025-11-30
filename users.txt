@@ -1,0 +1,8 @@
+root
+admin
+administrator
+user
+guest
+test
+msfadmin
+dvwa
